@@ -1,3 +1,4 @@
+![Capture1](https://user-images.githubusercontent.com/87758683/132099873-6fa5dccd-3c29-4a87-87a2-c71a35dd72e5.JPG)
 # Employee-Record-Management-System-Project-2
 
 How to run this project
